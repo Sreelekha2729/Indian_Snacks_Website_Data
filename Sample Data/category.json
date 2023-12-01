@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "category":"Sweets"
+    },
+    {
+        "id":2,
+        "category":"Savouries"
+    },
+    {
+        "id":3,
+        "category":"Vadiyalu"
+    },
+    {
+        "id":4,
+        "category":"Podulu"
+    },
+    {
+        "id":5,
+        "category":"Veg-Pickles"
+    },
+    {
+        "id":6,
+        "category":"Non-Veg Pickles"
+    }
+]

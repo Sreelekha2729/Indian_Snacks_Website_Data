@@ -1,0 +1,74 @@
+[
+    {
+      "itemId": 13,
+      "category":"Vadiyalu",
+      "name":"Biyyam Pindi Vadiyalu",
+      "description":"This rice papad is very popular since it is made of pure rice and sago. The finest chefs carefully cook these Indian specialties to a crisp, golden brown with a tinge of cumin seeds.",
+      "categoryId": 3,
+      "price":175,
+      "rating":4.5,
+      "weight":"250gms",
+      "image": "https://ibb.co/gt5G67f/biyyampindivadiyalu.webp",
+      "reviewCount":32
+    },
+    {
+       "itemId": 14,
+      "category":"Vadiyalu",
+      "name":"Challa Mirchi",
+      "description":"Crunchy and delectable Curd chilies are prepared with curd, green chilies, and a hint of turmeric and salt.They make for a popular dal rice and have often served with sambar or rasam.",
+      "categoryId": 3,
+      "price":170,
+      "rating":5,
+      "weight":"1kg",
+      "image": "https://ibb.co/0QNP9mS/challa%20mirchi.jpg",
+      "reviewCount":36
+    },
+    {
+       "itemId": 15,
+      "category":"Vadiyalu",
+      "name":"Minapa Vadiyalu",
+      "description":"These Black gram fryums are just the kind of snack that will make your meal simpler, yet more flavorful. Urad Dal Badi’s colorful, crunchy and crispy goodness.",
+      "categoryId": 3,
+      "price":160,
+      "rating":5,
+      "weight":"500gms",
+      "image": "",
+      "reviewCount":27
+    },
+    {
+       "itemId": 16,
+      "category":"Vadiyalu",
+      "name":"RiceFlour Vadiyalu",
+      "description":"Rice flour Vadiyalu is the best combination with Rasam and Sambar rice, traditional way of preparation makes every crunch with natural authenticity.",
+      "categoryId": 3,
+      "price":148,
+      "rating":4.5,
+      "weight":"1kg",
+      "image": "https://ibb.co/Ltybwj4/minapa%20vadiyalu..jpg",
+      "reviewCount":29
+    },
+    {
+       "itemId": 17,
+      "category":"Vadiyalu",
+      "name":"Gottalu",
+      "description":"Gottalu (Fryums) is ready to fry Indian snack that is made by using all-purpose flour, salt. Fryums are made in different shapes that are in round/flat shape also called Pipe Fryums.",
+      "categoryId": 3,
+      "price":154,
+      "rating":4.5,
+      "weight":"500gms",
+      "image": "https://ibb.co/16gJry8/Gottalu.jpg",
+      "reviewCount":27
+    },
+    {
+      "itemId": 18,
+      "category":"Vadiyalu",
+      "name":"Appadalu",
+      "description":"A papad, also known as a papadam, is an Indian dough of black gram bean flour, either deep fried or cooked with dry heat until crunchy.Other flours made from lentils,rice,tapioca are also used.",
+      "categoryId": 3,
+      "price":160,
+      "rating":5,
+      "weight":"1kg",
+      "image": "https://ibb.co/9qbmv4H/Appadalu.jpg",
+      "reviewCount":20
+    }
+  ]

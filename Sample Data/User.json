@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Ravi",
+        "email": "ravi@gmail.com",
+        "password":"123456",
+        "phone": 768768686,
+        "role":"Admin"
+    },
+    {
+        "name": "Raju",
+        "email": "raju@gmail.com",
+        "password":"123476",
+        "phone": 768768689,
+        "role":"User"
+    },
+    {
+        "name": "Neha",
+        "email": "neha@gmail.com",
+        "password":"128456",
+        "phone": 768528686,
+        "role":"Admin"
+    },
+    {
+        "name": "Ramya",
+        "email": "ramya@gmail.com",
+        "password":"123556",
+        "phone": 808768686,
+        "role":"User"
+    },
+    {
+        "name": "Nidhi",
+        "email": "nidhi@gmail.com",
+        "password":"113456",
+        "phone": 768555686,
+        "role":"Admin"
+    },
+    {
+        "name": "Aakash",
+        "email": "aakash@gmail.com",
+        "password":"123450",
+        "phone": 888768686,
+        "role":"User"
+    }
+]

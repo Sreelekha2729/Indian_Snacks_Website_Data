@@ -1,0 +1,74 @@
+[
+    {
+      "itemId": 19,
+      "category":"Podulu",
+      "name":"Idli Karam podi",
+      "description":"Idli Karam podi is the blend of spices and condiments, mainly Bengal gram, urad dal,cumin, salt, garlic, and red chili to finish it into a delightful spice side dish for breakfast and meals.",
+      "categoryId": 4,
+      "price":150,
+      "rating":4.5,
+      "weight":"250gms",
+      "image": "https://ibb.co/Q8QKQCt/IdliKarampodi.webp",
+      "reviewCount":50
+    },
+    {
+       "itemId": 20,
+      "category":"Podulu",
+      "name":"Nuvvula Karam podi",
+      "description":"The Nuvvula Karam Powder has conventionally made of nuvvulu (sesame seeds), urad dal, Bengal gram, curry leaves, red chili powder, and other spices.",
+      "categoryId": 4,
+      "price":150,
+      "rating":5,
+      "weight":"500gms",
+      "image": "https://ibb.co/xC2Lr3w/NuvvulaKarampodi.webp",
+      "reviewCount":80
+    },
+    {
+       "itemId": 21,
+      "category":"Podulu",
+      "name":"Kakarakaya Karam Podi",
+      "description":"Our Bitter gourd karam is made with hand-cut and roasted kakarakaya/bitter gourd, along with lentils and aroma spices in 100% organic oil.",
+      "categoryId": 4,
+      "price":160,
+      "rating":4.5,
+      "weight":"1kg",
+      "image": "https://ibb.co/q0cRC43/KakarakayaKaram.webp",
+      "reviewCount":9
+    },
+    {
+       "itemId": 22,
+      "category":"Podulu",
+      "name":"Kandi Podi",
+      "description":"Kandi podi is a spice and condiment combination that includes Tur dal, Bengal gram, urad dal, cumin, salt, garlic, and red chili to create a delicious spicy side dish.",
+      "categoryId": 4,
+      "price":150,
+      "rating":5,
+      "weight":"1kg",
+      "image": "https://ibb.co/gDyDQs0/KandiPodi.webp",
+      "reviewCount":13
+    },
+    {
+       "itemId": 23,
+      "category":"Podulu",
+      "name":"Avisaginjala Podi",
+      "description":"Avise podi is made by finely roasting the flaxseeds and other spices to give you the yummy and piquant side dish uses culinary methods followed by our great grandmothers.",
+      "categoryId": 4,
+      "price":165,
+      "rating":5,
+      "weight":"250gms",
+      "image": "https://ibb.co/0yLQMp7/AvisaginjalaPodi.webp",
+      "reviewCount":13
+    },
+    {
+       "itemId": 24,
+      "category":"Podulu",
+      "name":"Karivepaku Karam Podi",
+      "description":"Curry leaves are the main ingredient in Karivepaku Karam, and it provides surplus nutrition that can benefit in improving the health condition and reduce the risk of diabates.",
+      "categoryId": 4,
+      "price":165,
+      "rating":5,
+      "weight":"1kg",
+      "image": "https://ibb.co/ggJ1Q0L/KarivepakuKaramPodi.webp",
+      "reviewCount":13
+    }
+  ]

@@ -1,0 +1,74 @@
+[
+    {
+      "itemId": 25,
+      "category":"Veg-pickles",
+      "name":"Pandumirchi Pickle",
+      "description":"The pickle is a tangy spicy concoction of the choicest spices, tamarind, and red chilies. It is rich in vitamin C. It is a favorite in the spice-loving regions of Andhra Pradesh and Telangana.",
+      "categoryId": 5,
+      "price":140,
+      "rating":4.5,
+      "weight":"250gms",
+      "image": "https://ibb.co/Nr9D0TT/pandumirchi-pickle.jpg",
+      "reviewCount":50
+    },
+    {
+       "itemId": 26,
+      "category":"Veg-pickles",
+      "name":"Gongura Pickle",
+      "description":"A unique, spicy and flavourful gongura pickle that enhances the taste of every meal, giving you an amazing experience. Prepared using the finest ingredients.",
+      "categoryId": 5,
+      "price":125,
+      "rating":4.5,
+      "weight":"250gms",
+      "image": "https://ibb.co/GWzSm9R/gongura-pickle.jpg",
+      "reviewCount":16
+    },
+    {
+       "itemId": 27,
+      "category":"Veg-pickles",
+      "name":"CurryLeaf Pickle",
+      "description":"The main ingredients in this pickle are curry leaves and Tamarind.This spicy and refreshing pickle added with flavors of different spices in its preparation will leave us nostalgic.",
+      "categoryId": 5,
+      "price":125,
+      "rating":5,
+      "weight":"500gms",
+      "image": "https://ibb.co/4t9h2WP/curryleaf%20pickle.jpg",
+      "reviewCount":24
+    },
+    {
+       "itemId": 28,
+      "category":"Veg-pickles",
+      "name":"Usirikaya Pickle",
+      "description":"Amla Achar is one of the age-old pickles passed down from our ancestors. The amla pickle is also called Nellikkai, or usirikaya, or Gooseberry.",
+      "categoryId": 5,
+      "price":140,
+      "rating":4.5,
+      "weight":"250gms",
+      "image": "https://ibb.co/b6rWKwm/usirikaya-pachadi.jpg",
+      "reviewCount":22
+    },
+    {
+       "itemId": 29,
+      "category":"Veg-pickles",
+      "name":"Garlic Pickle",
+      "description":"This North Indian Punjabi style Garlic Pickle known as lahsun ka achar is an heirloom family recipe that is spiced, salty, sour & sweet.",
+      "categoryId": 5,
+      "price":145,
+      "rating":4.5,
+      "weight":"1kg",
+      "image": "https://ibb.co/jkLhXQt/Garlic_Pickle_Vellulli_Avakai.jpg",
+      "reviewCount":21
+    },
+    {
+       "itemId": 30,
+      "category":"Veg-pickles",
+      "name":"Drumstick Pickle",
+      "description":"Drumstick pickle or Murrungaka pickle is a south Indian special pickle variety.This can be a great side dish for south Indian meals and other items like dosas and chappatis.",
+      "categoryId": 5,
+      "price":145,
+      "rating":4.5,
+      "weight":"250gms",
+      "image": "https://ibb.co/r2TXkdD/drumstick%20pickle.jpg",
+      "reviewCount":21
+    }
+  ]

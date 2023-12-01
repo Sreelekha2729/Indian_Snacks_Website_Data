@@ -1,0 +1,74 @@
+[
+    {
+      "itemId": 7,
+      "category":"Savouries",
+      "name":"Andhra Murukulu",
+      "description":"This traditional Indian savory snack is specially prepared during festivals or served as a tea-time snack. This savory is originally made out of rice flour base.",
+      "categoryId": 2,
+      "price":105,
+      "rating":5,
+      "weight":"1kg",
+      "image": "https://ibb.co/GCdy5mK/andra-murukku1.webp",
+      "reviewCount":6
+    },
+    {
+       "itemId": 8,
+      "category":"Savouries",
+      "name":"Butter Murukulu",
+      "description":"Butter Murukku recipe or Benne Chakli - light, crunchy, delicious, buttery festive snack made with butter, rice flour & other ingredients.",
+      "categoryId": 2,
+      "price":150,
+      "rating":4.5,
+      "weight":"1kg",
+      "image": "https://ibb.co/SdNnSZS/ButterMurukulu.webp",
+      "reviewCount":12
+    },
+    {
+       "itemId": 9,
+      "category":"Savouries",
+      "name":"Senagalu",
+      "description":"Senagalu or Chick Peas is very healthy and tasty. Senagalu are an excellent source of Protein, Fibre, Niacin, Iron, magnesium.",
+      "categoryId": 2,
+      "price":300,
+      "rating":5,
+      "weight":"500gms",
+      "image": "https://ibb.co/1ZgdHf8/senagalu.jpg",
+      "reviewCount":80
+    },
+    {
+       "itemId": 10,
+      "category":"Savouries",
+      "name":"Pulihora",
+      "description":"Pulihora is stomach filling, extremely delicious for its tangy, sour and salty taste. It is extremely flavorful that comes from the fresh curry leaves,dry red chilies and green chilies.",
+      "categoryId": 2,
+      "price":300,
+      "rating":5,
+      "weight":"250gms",
+      "image": "https://ibb.co/J7wLDb0/pulihora.jpg",
+      "reviewCount":80
+    },
+    {
+       "itemId": 11,
+      "category":"Savouries",
+      "name":"Masala Cashew",
+      "description":"Made with BIG flavor, these homemade masala cashews are crunchy, salty, spicy, and majorly addictive. Spiced cashews are the perfect savory.",
+      "categoryId": 2,
+      "price":300,
+      "rating":5,
+      "weight":"250gms",
+      "image": "https://ibb.co/TDQg9jJ/MasalaCashew.webp",
+      "reviewCount":80
+    },
+    {
+       "itemId": 12,
+      "category":"Savouries",
+      "name":"Chekkalu",
+      "description":"Chekkalu are a traditional fried snack from Andhra pradesh that are crunchy, delicious and addictive. These are made in most Telugu speaking homes.",
+      "categoryId": 2,
+      "price":175,
+      "rating":5,
+      "weight":"1kg",
+      "image": "https://ibb.co/z8mjXYm/chekkalu.webp",
+      "reviewCount":100
+    }
+  ]

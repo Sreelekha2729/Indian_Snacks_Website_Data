@@ -1,0 +1,74 @@
+[
+    {
+      "itemId": 1,
+      "category":"Sweets",
+      "name":"Bellam Nuvvala Laddu",
+      "description":"Nuvvula Undalu is the authentic sweet made from the sesame seeds or Nuvulu and Jaggery.The Bellam Nuvvula Undalu is a sweetened snack with delectable texture.",
+      "categoryId": 1,
+      "price":150,
+      "rating":4.5,
+      "weight":"250gms",
+      "image": "https://ibb.co/r7hQ2Zy/bellam-nuvvula-undalu-laddu.webp",
+      "reviewCount":42
+    },
+    {
+       "itemId": 2,
+      "category":"Sweets",
+      "name":"Bandar Laddu",
+      "description":"The delicious Bandar Ladoo is also named Tokkudu because of the implemented approach of cooking the dessert.This tasty ladoo will melt into your mouth immediately with a saccharine mellow flavor.",
+      "categoryId": 1,
+      "price":160,
+      "rating":4.5,
+      "weight":"250gms",
+      "image": "https://ibb.co/41ttwC3/bandar-laddu.webp",
+      "reviewCount":34
+    },
+    {
+       "itemId": 3,
+      "category":"Sweets",
+      "name":"Nethi Bobbatlu",
+      "description":"Nethi Bobbatlu is one of the age-old recipes made of Jaggery and Bengal gram, which imparts a lot of health benefits.The jaggery will aid in boosting the hemoglobin content in blood and reduce the risk of anemia.",
+      "categoryId": 1,
+      "price":150,
+      "rating":4.5,
+      "weight":"1kg",
+      "image": "https://ibb.co/2v3prvj/nethi-bobbatlu.jpg",
+      "reviewCount":60
+    },
+    {
+       "itemId": 4,
+      "category":"Sweets",
+      "name":"Paramannam",
+      "description":"Paramannam is a traditional South Indian rice pudding that is creamy and delicious. This version uses jaggery as sweetener and tastes earthy and amazing.",
+      "categoryId": 1,
+      "price":150,
+      "rating":5,
+      "weight":"250gms",
+      "image": "https://ibb.co/qY1DsxM/paramannam.jpg",
+      "reviewCount":27
+    },
+    {
+       "itemId": 5,
+      "category":"Sweets",
+      "name":"Junnu",
+      "description":"Junnu, also known as colostrum and kharvas is a milk pudding cooked using the colostrum produced by a cow during an initial couple of days after delivery of the calf.",
+      "categoryId": 1,
+      "price":299,
+      "rating":4.5,
+      "weight":"250gms",
+      "image": "https://ibb.co/120vqPf/Junnu.webp",
+      "reviewCount":55
+    },
+    {
+       "itemId": 6,
+      "category":"Sweets",
+      "name":"Gulab Jamun",
+      "description":"Gulab jamun is an Indian dessert of fried dough balls soft, delicious and soaked in a sugary syrup, our mini jamuns are the perfect dessert for the whole family after a hearty meal.",
+      "categoryId": 1,
+      "price":150,
+      "rating":4.5,
+      "weight":"1kg",
+      "image": "https://ibb.co/gWnDvhz/Gulab%20jamun.webp",
+      "reviewCount":60
+    }
+  ]

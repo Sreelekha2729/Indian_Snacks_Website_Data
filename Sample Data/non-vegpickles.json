@@ -1,0 +1,74 @@
+[
+    {
+      "itemId": 31,
+      "category":"Non-veg Pickles",
+      "name":"Gongura Chicken Pickle",
+      "description":"This yummylishious pickle made at Indian Snacks has its own flavor of aromatic masala magic, once tasted can't you get enough to satisfy the taste buds and will finish it off.",
+      "categoryId": 6,
+      "price":400,
+      "rating":4.5,
+      "weight":"500gms",
+      "image": "https://ibb.co/brv00VV/gongura-chicken-pickle.jpg",
+      "reviewCount":90
+    },
+    {
+       "itemId": 32,
+      "category":"Non-veg Pickles",
+      "name":"Mutton Pickle",
+      "description":"Mutton (goat or lamb) pieces are marinated with spices and the mixture of fresh groundnut oil, ginger garlic paste and homemade various spice mix powder.",
+      "categoryId": 6,
+      "price":500,
+      "rating":5,
+      "weight":"500gms",
+      "image": "https://ibb.co/cr0XdXT/mutton%20pickle.jpg",
+      "reviewCount":87
+    },
+    {
+       "itemId": 33,
+      "category":"Non-veg Pickles",
+      "name":"Gongura Prawns Pickle",
+      "description":"Gongura Prawn Pickle are made by Gongura leaves and Prawns. Gongura leaves being the alluring perennial herb have a lot of medicinal properties.",
+      "categoryId": 6,
+      "price":375,
+      "rating":4.5,
+      "weight":"250gms",
+      "image": "https://ibb.co/m4ShMXz/GonguraPrawnPickle..jpg",
+      "reviewCount":66
+    },
+    {
+       "itemId": 34,
+      "category":"Non-veg Pickles",
+      "name":"Fish Pickle",
+      "description":"Fish pickle is the preserved food item through either anaerobic fermentation in brine or. The pH of fish pickle should be 4.6 or lower to reduce the microbial activity.",
+      "categoryId": 6,
+      "price":350,
+      "rating":5,
+      "weight":"500gms",
+      "image": "https://ibb.co/X8Z8CBj/fish_pickle.jpg",
+      "reviewCount":99
+    },
+    {
+       "itemId": 35,
+      "category":"Non-veg Pickles",
+      "name":"Mutton Keema Pickle",
+      "description":"Keema Mutton pickle is the best cookery made of mutton Keema and achar masala prepared with zesty spices and condiments to impart the savory and zippy flavor.",
+      "categoryId": 6,
+      "price":550,
+      "rating":4.5,
+      "weight":"1kg",
+      "image": "https://ibb.co/y0tNzBq/mutton-keema-pickle.webp",
+      "reviewCount":95
+    },
+    {
+      "itemId": 36,
+      "category":"Non-veg Pickles",
+      "name":"Koramenu Pickle",
+      "description":"Koramenu fish pickle is completely hand-made using ambrosial spices that are grind by hand. Only prime ingredients and the purest vegetable oil is used and cooked.",
+      "categoryId": 6,
+      "price":350,
+      "rating":5,
+      "weight":"500gms",
+      "image": "https://ibb.co/NmTY3xP/KoramenuPickle.webp",
+      "reviewCount":99
+    }
+  ]
